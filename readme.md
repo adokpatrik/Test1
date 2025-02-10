@@ -8,3 +8,4 @@
 1. uj projekthez uj repo letrehozasa a github-on
 1. Remote repo letrehozasa (teszt)
 1. Modositas a remote repoban is es itt is 
+
