@@ -9,3 +9,4 @@
 1. Remote repo letrehozasa (teszt)
 1. Modositas a remote repoban is es itt is 
 1. modositas a remote repoban (a pull kiprobalasa miatt)
+1. konfliktuskezeles remote repoban
